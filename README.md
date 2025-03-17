@@ -16,6 +16,7 @@ brew install zellij
 brew install fzf
 brew install yazi
 brew install lazygit
+brew install lazysql
 
 ```
 
@@ -30,6 +31,8 @@ brew install composer
 ``` bash
 
 curl -LsSf https://astral.sh/uv/install.sh | sh
+
+uv tool install posting
 ```
 
 
